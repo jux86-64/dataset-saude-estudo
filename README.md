@@ -1,4 +1,4 @@
-# Análises Saúde - Projeto de Estudo
+# Dados de saúde publica- Projeto de Estudo
 
 ## 📋 Sobre o Projeto
 Este é um projeto de análise de dados desenvolvido para fins educacionais. **Importante**: Os dados utilizados são uma simulação criada para aula e não representam números reais.

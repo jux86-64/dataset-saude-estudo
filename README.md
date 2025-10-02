@@ -19,20 +19,10 @@ Desenvolver habilidades em análise de dados e visualização através de um cen
 ## 📈 Análises Realizadas
 
 ### 1. Agrupamento e Consolidação
-```python
-# Agrupamento por ano e estado
-agrupar = df.groupby(['Ano', 'Estado']).sum()
-```
 
 ### 2. Visualizações Criadas
-- Gráfico comparativo de casos por ano e estado
-- Identificação de picos e tendências temporais
-- Análise de distribuição entre estados
 
 ### 3. Principais Descobertas (Baseadas na Simulação)
-- Padrões de sazonalidade identificados nos dados simulados
-- Variações entre estados na simulação
-- Anos com maior incidência na base simulada
 
 ## 🚀 Como Executar
 1. Clone o repositório
